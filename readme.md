@@ -12,7 +12,7 @@ Made by Nataniel Souza
 
 #### Preview diagram
 
-![preview](image/preview.gif)
+![preview](image/preview.png)
 
 #### Contacts
 
